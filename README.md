@@ -1,6 +1,11 @@
 # MARKDOWN_20250714
 MARKDOWN_20250714
 
+### 6. 링크(Link)  
+'[링크텍스](URL)형태로 작성합니다.'  
+[PCWK Daum](https://cafe.daum.net/pcwk)
+
+
 ### 5. 목록
 ** 순서 있는 목록**
 1. 아이템1
