@@ -3,7 +3,12 @@ MARKDOWN_20250714
 
 ### 6. 링크(Link)  
 '[링크텍스](URL)형태로 작성합니다.'  
-[PCWK Daum](https://cafe.daum.net/pcwk)
+[PCWK Daum](https://cafe.daum.net/pcwk)  
+
+**같은 페이지내 하이퍼 링크**
+[여기](#4)
+
+
 
 
 ### 5. 목록
@@ -56,5 +61,7 @@ public class Hello {
 ### 1. 문단개행
 여름 바다를 걸어 보아요.  
 (너무 더워요)
-개형 : space 2개
+개형 : space 2개  
+
+#4-코드  
 
