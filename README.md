@@ -6,7 +6,7 @@ MARKDOWN_20250714
 [PCWK Daum](https://cafe.daum.net/pcwk)  
 
 **같은 페이지내 하이퍼 링크**
-[여기](#4)
+[여기](#4-코드블록)
 
 
 
