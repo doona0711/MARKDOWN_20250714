@@ -1,7 +1,9 @@
 # MARKDOWN_20250714
-MARKDOWN_20250714
+MARKDOWN_20250714  
 
-
+### 8 . 이미지
+'이미지 ![이미지 텍스트](이미지URL)'  
+![레이아웃](https://github.com/doona0711/MARKDOWN_20250714/blob/main/doc/layout.png)
 
 ### 7. 강조(Emphasis)  
 - Bold : **텍스트** 또는 _텍스트_
