@@ -1,3 +1,204 @@
+# 헬메이
+
+<맞춤형 건강관리 정보 공유 플랫폼 웹 서비스 프로젝트>
+
+`이미지 ![이미지 텍스트](이미지URL)`  
+![레이아웃](https://github.com/doona0711/MARKDOWN_20250714/blob/main/doc/layout.png)
+
+---
+
+## 👥 프로젝트 개요
+
+**팀명: HELL MATE**  
+**진행기간: 2025년 5월 19일 ~ 2025년 7월 11일**
+
+### 🧑‍💻 팀 구성 및 역할
+
+| 이름 | 역할 | 주요 담당 |
+|------|------|-----------|
+| 채영유 (팀장) | 지도 기반 시각화, 교통기사 시각화, 교통량 분석, 안전지수 | 프론트엔드, 백엔드 |
+| 조규희 | 지도 기반 시각화, UI 디자인, 안전지수 | 프론트엔드, 백엔드 |
+| 한용진 | 지도 기반 시각화, 교통량 분석, 안전지수 | 백엔드 |
+| 박건우 | 로그인, 회원가입, 커뮤니티 | 프론트엔드, 백엔드 |
+| 조성민 | 차트 및 데이터 시각화 | 프론트엔드 |
+| 김병우 | 로그인, 회원가입, 커뮤니티 | 백엔드 |
+| 전혜진 | 교통안전 데이터 제공 | 콘텐츠 수집, 분석 |
+
+---
+
+## 📅 전체 일정
+
+| 구분 | 기간 | 활동 | 비고 |
+|------|------|------|------|
+| 기획 | 1/9 ~ 1/24 | 주제 선정, 프로젝트 정의, 기획서 작성 | WBS 작성 포함 |
+| 계획 | 1/24 ~ 2/4 | UI 디자인, ERD 작성, 구조 설계 |  |
+| 개발 | 2/10 ~ 2/24 | 데이터 수집/전처리, 기능 구현, 화면 개발 |  |
+| 테스트 | 2/24 ~ 3/7 | 중간 점검, 통합 테스트, 버그 수정 | 최적화 |
+| 문서 | 3/7 ~ 3/10 | 최종 문서 정리, 발표 자료 제작 | 발표 준비 |
+
+---
+
+## ✨ 주요 기능
+
+- 📊 차트 및 그래프 기반 데이터 시각화
+- 🗺️ 지도 기반 교통 데이터 시각화
+- 💬 커뮤니티 기능
+- 📰 도로/교통 관련 기사 제공
+- 📄 교통안전 수칙 및 사고 예방 정보 제공
+- 📈 교통량 데이터 분석 시각화
+- 🔐 안전지수 산출
+
+---
+
+## ⚙️ 기술 스택
+
+### Frontend
+- ![HTML](https://img.shields.io/badge/-HTML-green)
+- ![CSS](https://img.shields.io/badge/-CSS-green)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple)
+
+### Backend
+- ![Java](https://img.shields.io/badge/-Java-orange)
+- ![Python](https://img.shields.io/badge/-Python-blue)
+- ![Spring](https://img.shields.io/badge/-Spring-green)
+- ![Spring Security](https://img.shields.io/badge/-Spring%20Security-brightgreen)
+- ![Hibernate](https://img.shields.io/badge/-Hibernate-gray)
+
+### Database
+- ![Oracle](https://img.shields.io/badge/-Oracle-red)
+
+### Tools
+- ![GitHub](https://img.shields.io/badge/-GitHub-black)
+- ![Slack](https://img.shields.io/badge/-Slack-purple)
+- ![Notion](https://img.shields.io/badge/-Notion-black)
+
+---
+
+## 🔍 벤치마킹
+
+벤치마킹 대상: [MyFitnessPal](https://www.myfitnesspal.com/ko)  
+> 건강한 몸은 음식에서 시작된다  
+사용자의 기록 기반 데이터 분석 UX 참고
+
+---
+
+## 📌 기능 요구 사항
+
+이미지로 정리된 기능 요구 사항표는 [여기](기능_요구사항_이미지_경로)를 참고하세요.
+
+---
+
+## 📑 프로그램 사양서
+
+각 기능별 컨트롤러, 서비스, DAO, Mapper, 담당자, 구현일정 등을 정리한 사양서는 아래 이미지 참고:
+
+![사양서 이미지](사양서_이미지_경로)
+
+---
+
+## 🛠 프로젝트 개발 과정
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # MARKDOWN_20250714
 MARKDOWN_20250714  
 
